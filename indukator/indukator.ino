@@ -13,7 +13,7 @@ float MaxVoltage = 0.0;
 
 #define A_PIN 1
 #define COUNT 5
-int f;
+
 int e;
 int i;
 float curVoltage;
